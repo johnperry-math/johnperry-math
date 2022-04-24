@@ -1,4 +1,8 @@
-### Hi there 👋
+Kind of embarrassing, but at least for now, this profile README is here mostly so I could see the following cards. Kind of surprised to see that TeX is the top language (as of this writing, anyway).
+
+[![John Perry's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnperry-math)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnperry-math&langs_count=10)](https://github.com/johnperry-math/github-readme-stats)
 
 <!--
 **johnperry-math/johnperry-math** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
